@@ -70,6 +70,35 @@ https://nawasistem.com/blog/
 - Quality Control Rumah
 - Estate Management
 
+  ## Artikel Terkait
+
+- Cara Membaca Deviasi Progress Proyek dan Laba Rugi Kontraktor
+  https://nawasistem.com/cara-membaca-deviasi-progress-proyek-dan-laba-rugi-kontraktor/
+
+- Dashboard Monitoring Proyek: Cara Modern Mengontrol Progress Lapangan
+  https://nawasistem.com/dashboard-monitoring-proyek-cara-modern-mengontrol-progress-lapangan/
+
+- Dashboard Proyek Perumahan: Cara Modern Monitoring Progress & Kontrol Proyek
+  https://nawasistem.com/dashboard-proyek-perumahan-cara-modern-monitoring-progress-kontrol-proyek/
+
+- Cara Monitoring Progress Proyek Perumahan Agar Tidak Berantakan
+  https://nawasistem.com/cara-monitoring-progress-proyek-perumahan-agar-tidak-berantakan/
+
+## Produk Terkait
+
+- Dashboard Proyek Perumahan
+  https://nawasistem.com/dashboard-proyek-perumahan/
+
+- Template Profesional Proyek Konstruksi
+  https://nawasistem.com/template-profesional-proyek-konstruksi/
+
+- Panduan Lapangan Pengawas Proyek
+  https://nawasistem.com/panduan-lapangan-pengawas-proyek/
+
+## Website Resmi
+
+https://nawasistem.com
+
 ## License
 
 For educational and professional project management purposes.
